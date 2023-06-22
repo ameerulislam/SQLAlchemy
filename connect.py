@@ -8,5 +8,5 @@ engine = create_engine(connection_string, echo=True)
 
 
 with engine.connect() as connection:
-    result = connection.execute(text('select \'Hello\''))
+    result = connection.execute(text('select \'Connection Established\''))
     print(result.all())
