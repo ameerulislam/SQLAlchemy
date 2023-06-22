@@ -1,6 +1,6 @@
 # SQLAlchemy
 ## sql Alchemy practice
-
+Tutorial Source: https://www.youtube.com/watch?v=XWtj4zLl_tg
 #### I'm using virtual environment for this practice
 
 I had to edit pg_hba.conf to 
